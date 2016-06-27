@@ -21,3 +21,8 @@ public static void main(String args[])
      System.out.println("Reverse of entered string is: "+reverse);
   }
 }
+
+Output:
+Enter a string to reverse
+741258963
+Reverse of entered string is: 369852147
